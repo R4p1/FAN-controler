@@ -5,7 +5,7 @@
 
 ## Requirement
 ### Development
-- "Development Tool Name"
+- Kicad8.0
 ### Boards
 - "Platform Name, Board Name, etc..."
 ### Libraries
@@ -24,4 +24,4 @@
 - ["Your Name"]("Your GitHub, Twitter, etc... Account URL")
 
 ## License
-- Copyright (c) R4p1
+- Copyright R4p1
