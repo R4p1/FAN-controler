@@ -1,4 +1,4 @@
-# "FAN-controler"
+# FAN-controler
 
 ## Overview
 - Design of controller for verification of general-purpose 4-pin fan.
