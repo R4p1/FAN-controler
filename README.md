@@ -12,8 +12,7 @@
 - "Library Name and Version used in this repository"
 
 ## Usage
-- "How to Use, SIMPLE Explanation"
-
+- PWM control and RPM monitoring of fans
 ## Features
 - "Detailed Description"
 
@@ -24,4 +23,4 @@
 - [R4p1](https://github.com/R4p1)
 
 ## License
-- Copyright (c) R4p1
+- (c) 2024 R4p1
