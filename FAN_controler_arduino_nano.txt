@@ -1,0 +1,46 @@
+<Chip multilayer ceramic capacitor(MLCC)>
+Spec : 0.01 uF, 50 V, 1608
+Model number : GRM188B11H103KA01
+Manufacturer : muRata
+
+Spec : 0.1 uF, 50 V, 1608
+Model number : GCM188L81H104K57
+Manufacturer : muRata
+
+
+<Chip Resistor>
+100 Ohm,1608
+4.7k Ohm, 1608
+10k Ohm, 1608
+
+
+<Electrolytic Capacitor>
+Spec : 100uF 25V 105℃
+Model number : 25PX100MEFC5X11
+Manufacturer : Rubycon
+
+
+<DC Jack>
+Spec : 2.1mm 4A
+Model number : 18742
+Manufacturer : 4UCON TECHNOLOGY
+
+
+<Trimming Potentiometer>
+Spec : 10kOhm
+Model number : 3296W-1-103LF
+Manufacturer : Bourns
+
+<LCD>
+Spec : 16x2 Parallel
+
+<Pin Header>
+Spec : 2.54mm pitch
+
+<Tact Switch>
+Spec : 6x6x5mm
+
+<Arduino Nano>
+
+
+
