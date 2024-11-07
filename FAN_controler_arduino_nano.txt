@@ -1,4 +1,4 @@
-<Chip multilayer ceramic capacitor(MLCC)>
+<Multilayer Ceramic Chip Capacitor(MLCC)>
 Spec : 0.01 uF, 50 V, 1608
 Model number : GRM188B11H103KA01
 Manufacturer : muRata
