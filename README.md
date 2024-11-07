@@ -1,7 +1,7 @@
-# "FAN-controler"
+# FAN-controler
 
 ## Overview
-- "This Repository Overview"
+- Design of controller for verification of general-purpose 4-pin fan
 
 ## Requirement
 ### Development
@@ -12,7 +12,7 @@
 - "Library Name and Version used in this repository"
 
 ## Usage
-- "How to Use, SIMPLE Explanation"
+- Used for PWM control and RPM monitoring of fans
 
 ## Features
 - "Detailed Description"
@@ -21,7 +21,7 @@
 - ["Reference Site Name"]("Reference URL")
 
 ## Author
-- ["Your Name"]("Your GitHub, Twitter, etc... Account URL")
+- [R4p1](https://github.com/R4p1)
 
 ## License
-- Copyright R4p1
+- (C) 2024 R4p1
