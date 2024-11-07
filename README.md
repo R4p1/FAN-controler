@@ -1,4 +1,4 @@
-# "FAN-controler"
+# FAN-controler
 
 ## Overview
 - "This Repository Overview"
@@ -21,7 +21,7 @@
 - ["Reference Site Name"]("Reference URL")
 
 ## Author
-- ["Your Name"]("Your GitHub, Twitter, etc... Account URL")
+- [R4p1](https://github.com/R4p1)
 
 ## License
-- Copyright (c) R4p1
+- (C) 2024 R4p1
