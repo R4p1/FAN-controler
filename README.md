@@ -1,11 +1,11 @@
 # FAN-controler
 
 ## Overview
-- "This Repository Overview"
+- Design of controller for verification of general-purpose 4-pin fan
 
 ## Requirement
 ### Development
-- "Development Tool Name"
+- KiCad8.0
 ### Boards
 - "Platform Name, Board Name, etc..."
 ### Libraries
