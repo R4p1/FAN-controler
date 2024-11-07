@@ -1,11 +1,11 @@
 # "FAN-controler"
 
 ## Overview
-- "This Repository Overview"
+- Design of controller for verification of general-purpose 4-pin fan.
 
 ## Requirement
 ### Development
-- "Development Tool Name"
+-   KiCad8.0
 ### Boards
 - "Platform Name, Board Name, etc..."
 ### Libraries
@@ -21,7 +21,7 @@
 - ["Reference Site Name"]("Reference URL")
 
 ## Author
-- ["Your Name"]("Your GitHub, Twitter, etc... Account URL")
+- [R4p1](https://github.com/R4p1)
 
 ## License
 - Copyright (c) R4p1
